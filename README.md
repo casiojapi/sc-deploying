@@ -2,9 +2,9 @@
 
 ## Typesoftransactions
 
-+ Cryptocurrencytransaction 
-+ Smartcontractinvocationtransaction
-+ Deploymenttransaction 
++ Cryptocurrency transaction 
++ Smart contract invocation transaction
++ Deployment transaction 
 + REMASC transaction
 
 #### REMASC
